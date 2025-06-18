@@ -10,8 +10,6 @@ const {
   switchh
 } = require('../controllers/todo.controller');
 
-// Routes for CRUD operations
-// to switch users 
  
 
 // GET all todos
